@@ -1,4 +1,4 @@
-# cryptofed-adma-public
+ # cryptofed-adma-public
 Prototype code for ADMA23 paper entitled "Cryptography-Inspired Federated Learning Variants for GAN and Meta Learning"
 
 **[MMSys22] Encrypted Video Search: Scalable, Modular, and Content-similar**
