@@ -4,8 +4,6 @@ from GAN import TrainGan
 '''
 如果使用同态加密，decrypt_sum.txt存储另外两位worker加和后的权重
 如果不使用同态加密，ABsum.txt和bobgenpara.txt为存储两个worker的权重
-center都不知道他们的具体参数，只有加和之后才知道  
-所以我觉得好像没有必要用同态加密了。。。。
 '''
 
 model_trained_center = TrainGan()
